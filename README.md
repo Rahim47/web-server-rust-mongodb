@@ -22,7 +22,7 @@ If Rust is not installed, follow the instructions on the [official Rust website]
 Clone the repository to your local machine:
 
 ```bash
-[git clone https://github.com/BretCameron/rust-web-server-tutorial](https://github.com/Rahim47/web-server-rust-mongodb.git)
+https://github.com/Rahim47/web-server-rust-mongodb.git
 ```
 
 Navigate into the project directory. For project development, you can use the following command:
