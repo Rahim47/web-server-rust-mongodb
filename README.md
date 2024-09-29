@@ -1,4 +1,4 @@
-# A Simple Web Server w/ Rust & MongoDB
+# A Simple Web Server w/ Rust & Actix-Web
 
 This project is features an HTTP server written in Rust using the Actix-Web framework. It provides a booking management system for dog walkers, with endpoints for managing owners, dogs, and bookings.
 
